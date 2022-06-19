@@ -1,0 +1,4 @@
+Nama Perangkat: Cisco ASA 5511, Lokasi: Gedung C
+Nama Perangkat: Cisco Catalyst 2811, Lokasi: Gedung B
+Nama Perangkat: Cisco Router 2811, Lokasi: Gedung A
+Nama Perangkat: Cisco ASA 5505 , Lokasi: Gedung D
